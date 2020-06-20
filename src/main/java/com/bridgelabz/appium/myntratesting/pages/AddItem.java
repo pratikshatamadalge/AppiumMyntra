@@ -7,7 +7,10 @@ import org.openqa.selenium.support.PageFactory;
 import com.bridgelabz.appium.myntratesting.base.Base;
 
 import io.appium.java_client.MobileElement;
-
+/*
+ * @author: Pratiksha
+ * purpose: appium add item automation script for Myntra application
+ */
 public class AddItem extends Base {
 
 	public AddItem() {

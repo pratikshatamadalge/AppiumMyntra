@@ -5,7 +5,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.bridgelabz.appium.myntratesting.base.Base;
-
+/*
+ * @author: Pratiksha
+ * purpose: appium Login automation script for Myntra application
+ */
 public class Login extends Base {
 
 	@FindBy(xpath = "//android.view.ViewGroup[@content-desc='leftElement']/android.widget.TextView")
