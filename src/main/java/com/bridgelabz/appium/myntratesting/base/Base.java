@@ -33,9 +33,6 @@ public class Base {
 		}
 	}
 
-	/*
-	*
-	* */
 	public static void initialization() {
 		desiredCapabilities = new DesiredCapabilities();
 		desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME,
